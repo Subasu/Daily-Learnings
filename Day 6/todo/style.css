@@ -1,0 +1,39 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f2f2f2;
+    border: 1px solid black;
+    width:20rem;
+    align-items: center;
+    text-align: center;
+}
+
+h1 {
+    text-align: center;
+    margin-top: 20px;
+}
+
+
+#input {
+    width: 80%;
+    padding: 10px;
+    margin: 10px auto;
+    display: block;
+}
+
+#btn {
+    padding: 10px 20px;
+    background-color: blue;
+    color: white;
+    width: 200px;
+    cursor: pointer;
+}
+
+
+#body {
+    width: 80%;
+    margin: 20px auto;
+    background-color: #fff;
+    padding: 20px;
+    border-radius: 5px;
+    border: 1px solid aquamarine;  
+}
